@@ -1,0 +1,6 @@
+#chrom	pos	ref	alt	child_dp	child_gq	child_ab	father_dp	father_gq	mother_dp	mother_gq
+chrSYN	111111	C	T	47	99	0.45	42	91	50	97
+chrSYN	222222	C	T	37	99	0.38	45	90	34	92
+chrSYN	333333	C	T	52	99	0.52	35	99	46	93
+chrSYN	444444	C	T	37	99	0.41	41	98	46	95
+chrSYN	555555	C	T	31	99	0.55	36	97	33	97
